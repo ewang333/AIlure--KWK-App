@@ -1,2 +1,4 @@
 # AIlure--KWK-App
 This repository contains the code I used to make my app for the KWK and Deloitte Sustainability and AI Challenge.
+About AIlure:
+AIlure is focused on educating users on the positive solutions AI can create to promote sustainable fashion and empowering users to take action to reduce negative environmental impact. This app includes an education hub that educates users on fashion's environmental impact, AI's ability to optimize supply chains and contribute to circular fashion, as well as a feature to help users find nearby donation centers and feature that gives users upcycling ideas, tutorials, and fabric information related to the environment to encourage users to contribute to a greener future. The color palette, fun animations, multiple interactive features, and navigation bar all make the app user-friendly, engaging, and easy to use. 
